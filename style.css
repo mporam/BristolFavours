@@ -1,0 +1,110 @@
+/* STORE TABLE BACKGROUNDS
+-------------------------------------*/
+TABLE.cobtbl{
+background-color: #B1B1B1;
+}
+
+TD.cobhl{
+background-color: #EBEBEB;
+}
+
+TD.cobll{
+background-color: #FFF;
+}
+
+/* PRICE NAME and DISCOUNTS DISPLAY
+-------------------------------------*/
+.prodprice, .detailprice, .prodname {
+color: #2a4fda;
+font-size: 10px;
+font-weight : bold;
+}
+
+.detailname {
+color: #2a4fda;
+font-size: 10px;
+font-weight : bold;
+}
+
+span.price, .detailprice, .prodprice {
+color: #44BA04;
+padding-top: 4px;
+font-weight:bold;
+text-align: center;
+}
+
+.discountsapply{
+color: #84210F;
+font-size: 12px;
+font-weight : bold;
+}
+.proddiscounts, .detaildiscounts, .catdiscounts{
+color: #84210F;
+font-size: 11px;
+font-weight : normal;
+}
+/* PRODUCT REVIEWS
+-------------------------------------*/
+.numreviews{
+color: #333;
+font-size: 13px;
+font-weight : bold;
+background-color:#ccc;
+border-bottom:1px solid #000;
+padding:4px;
+}
+.reviewheader{
+color: #333;
+font-size: 12px;
+font-weight : bold;
+}
+.reviewcomments{
+color: #333;
+font-size: 12px;
+font-weight : normal;
+line-height:1.6;
+}
+.reviewname{
+color: #666;
+font-size: 12px;
+font-weight : normal;
+line-height:1.6;
+}
+/* DESCRIPTION FIELDS
+-------------------------------------*/
+.detaildescription, .proddescription{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #000333;
+ line-height:2.6;
+}
+
+
+
+A:link {
+	color: #000033;
+	text-decoration: none;
+}
+
+A:visited {
+	color: #000033;
+	text-decoration: none;
+}
+
+A:active {
+	color: #000033;
+	text-decoration: none;
+}
+
+A:hover {
+	color: #CC0000;
+	text-decoration: none;
+}
+
+
+div.prodid{
+font-weight: bold;
+}
+
+span.prodoption{
+font-weight: bold;
+} 

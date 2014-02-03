@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>	
+	
+		<product1>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product1>	
+		<product1>
+			<name>Waterford Perfume</name>
+			<image>perfume.jpg</image>
+			<price>10.99</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product1>	
+		<product1>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product1>	
+		<product1>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product1>	
+		<product1>
+			<name>Floating Candle</name>
+			<image>candles.jpg</image>
+			<price>32.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product1>	
+		<product1>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product1>	
+		<product1>
+			<name>Waterford Perfume</name>
+			<image>perfume.jpg</image>
+			<price>10.99</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product1>	
+		<product1>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product1>	
+		<product1>
+			<name>Floating Candle</name>
+			<image>candles.jpg</image>
+			<price>32.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product1>	
+		
+	<product2>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product2>	
+		<product2>
+			<name>Floating Candle</name>
+			<image>candles.jpg</image>
+			<price>32.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product2>	
+		<product2>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product2>	
+		<product2>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product2>	
+		<product2>
+			<name>Waterford Perfume</name>
+			<image>perfume.jpg</image>
+			<price>10.99</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product2>	
+		<product2>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product2>	
+		<product2>
+			<name>Waterford Perfume</name>
+			<image>perfume.jpg</image>
+			<price>10.99</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product2>	
+		<product2>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product2>	
+		<product2>
+			<name>Floating Candle</name>
+			<image>candles.jpg</image>
+			<price>32.50</price>
+
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product2>
+		
+		
+		<product3>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product3>	
+		<product3>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product3>	
+		<product3>
+			<name>Waterford Perfume</name>
+			<image>perfume.jpg</image>
+			<price>10.99</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product3>	
+		<product3>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product3>	
+		<product3>
+			<name>Waterford Perfume</name>
+			<image>perfume.jpg</image>
+			<price>10.99</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product3>	
+		<product3>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product3>	
+		<product3>
+			<name>Floating Candle</name>
+			<image>candles.jpg</image>
+			<price>32.50</price>
+			<desc>Insert description here LOL</desc>
+			<ID>001</ID>
+		</product3>		
+		
+</root>

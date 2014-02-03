@@ -1,0 +1,58 @@
+<?php
+session_cache_limiter('none');
+session_start();
+ob_start();
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Untitled Document</title>
+<!-- #EndEditable -->
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="css/default.css" type="text/css" media="screen" />
+    
+	<link rel="stylesheet" href="css/default2.css" type="text/css" media="screen" />
+    <link href="css/dropdown.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="css/default.advanced.css" media="screen" rel="stylesheet" type="text/css" />
+    <!--[if lte IE 7]>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.dropdown.js"></script>
+    <![endif]-->
+</head>
+
+<body style="background:url(images/flowerbg.jpg) top left;">
+<div id="container">
+    <div id="head">
+        <div id="logo" class="left">Bristol Favours</div>
+        <div id="basketTxt" class="left">0 Items</div>
+        
+        <div id="basket" class="right">
+        <img src="images/basket.jpg" width="48" height="48" alt="Your Shopping Basket" class="right" />
+        </div>
+    </div>
+
+<span class="details"><a href="mailto:info@bristolfavours.co.uk">info@bristolfavours.co.uk</a> | 07000 000 000</span>
+
+<div id="nav">
+<?php
+require("nav.html");
+?>
+</div>
+
+<div class="clear"></div><!-- #BeginEditable "Body" -->
+      
+	  
+
+    
+<!-- #EndEditable -->
+
+<div class="clear"></div>
+
+<?php
+require("footer.html");
+?>
+
+</div>
+</body>
+</html>

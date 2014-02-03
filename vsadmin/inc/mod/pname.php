@@ -1,0 +1,1 @@
+<?php	print $sstrong . '<div class="detailname">' . $rs[getlangid('pName',1)] . $xxDot;?>

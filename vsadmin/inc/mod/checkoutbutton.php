@@ -1,0 +1,2 @@
+<?php if($isInStock && @$proddetailtopbuybutton==TRUE && @$nobuyorcheckout != TRUE && trim(@$_REQUEST['review'])=='') print imageorbutton(@$imgbuybutton,$xxAddToC,'buybutton','return subformid('.$Count.')', TRUE) . '&nbsp;';
+				if(@$nobuyorcheckout != TRUE) print imageorbutton($imgcheckoutbutton,$xxCOTxt,'checkoutbutton','cart.php', FALSE)?>

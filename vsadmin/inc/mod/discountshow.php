@@ -1,0 +1,1 @@
+<?php if($alldiscounts!='') print ' ' . (@$nomarkup?'':'<font color="#FF0000">') . '<span class="discountsapply detaildiscountsapply">' . $xxDsApp . '</span>' . (@$nomarkup?'':'</font>') . '</div>' . $estrong . '<div class="detaildiscounts"' . (@$nomarkup?'':' style="font-size:11px;color:#FF0000;"') . '>' . $alldiscounts . '</div>'; else print '</div>' . $estrong;?>

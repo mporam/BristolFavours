@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+		<homepage>
+			<name>Floating Candle</name>
+			<image>candles.jpg</image>
+			<price>32.50</price>
+			<desc>Insert description here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer velit velit, facilisis ac blandit in, faucibus in mauris. Morbi vel lectus vitae massa euismod ullamcorper. Sed magna dolor, imperdiet at interdum et, malesuada aliquam ipsum. Nullam a est lectus, nec semper risus. Duis venenatis semper consequat. Nulla dui massa, auctor a sagittis in, tempus non elit. </desc>
+			<ID>001</ID>
+		</homepage>
+		<homepage>
+			<name>Waterford Perfume</name>
+			<image>perfume.jpg</image>
+			<price>10.99</price>
+			<desc>Insert description here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer velit velit, facilisis ac blandit in, faucibus in mauris. Morbi vel lectus vitae massa euismod ullamcorper. Sed magna dolor, imperdiet at interdum et, malesuada aliquam ipsum. Nullam a est lectus, nec semper risus. Duis venenatis semper consequat. Nulla dui massa, auctor a sagittis in, tempus non elit. </desc>
+			<ID>001</ID>
+		</homepage>
+		<homepage>
+			<name>Cake Topper</name>
+			<image>cake_top.jpg</image>
+			<price>12.50</price>
+			<desc>Insert description here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer velit velit, facilisis ac blandit in, faucibus in mauris. Morbi vel lectus vitae massa euismod ullamcorper. Sed magna dolor, imperdiet at interdum et, malesuada aliquam ipsum. Nullam a est lectus, nec semper risus. Duis venenatis semper consequat. Nulla dui massa, auctor a sagittis in, tempus non elit.</desc>
+			<ID>001</ID>
+		</homepage>
+</root>

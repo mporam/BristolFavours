@@ -1,0 +1,33 @@
+body {
+    margin:0px;
+    padding:0px;
+    background-color:#ffffff;
+}
+
+.left {float:left;}
+
+.right {float:right;}
+
+.clear {clear:both; float:none;}
+
+a img {
+    border:none;
+}
+
+a {
+	text-decoration:none;
+	color:#013baf;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+#container {
+    width:1000px;
+	background:#ffffff;
+	margin:auto;
+	margin-top:15px;
+	margin-bottom:25px;
+	padding-bottom:15px;
+}

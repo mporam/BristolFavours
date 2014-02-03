@@ -1,0 +1,353 @@
+/* Body properties */ 
+
+body{
+ margin: 0;
+ padding:0;
+ background: #FFFFFF;
+ color: #333;
+ font-size: 11px;
+ font-family : Verdana, Arial, Helvetica, sans-serif;
+ }
+ 
+body.printbody{
+ margin: 0;
+ padding:0;
+ background: #FFFFFF;
+ color: #333;
+ font-size: 11px;
+ font-family : Verdana, Arial, Helvetica, sans-serif;
+ }
+
+ /* Top bar */
+ 
+ #header1{
+ height: 16px;
+ background:#BFC9E0;
+ background-image: url('adminimages/newtoptopbg.jpg');
+ margin:0px;
+ padding: 2px;
+ font-size: 11px;
+ font-family : Verdana, Arial, Helvetica, sans-serif;
+ color : #000000;
+ }
+ 
+ /* Header */
+	 
+#header{
+ height: 62px;
+ background-image: url('adminimages/mainbg.jpg');
+ margin:0px;
+ padding: 0px;
+ font-size: 11px;
+font-family : Verdana, Arial, Helvetica, sans-serif;
+color : #000000;
+ }
+ 
+ /* Left menu */
+
+.admin_menu {
+	margin: 0px;
+	margin-left: 5px;
+	background-image: url(adminimages/menutop.jpg);
+	background-repeat: no-repeat;
+	height: 27px;
+	width: 141px;
+	font-family: "Trebuchet MS";
+	font-size: 13px;
+	padding-top: 4px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 7px;
+	color: #FFFFFF;
+	font-weight: bold;
+	line-height: 14px;
+	display: block;
+}
+
+.admin_menu_list {
+	display: block;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333;
+	list-style-type: none;
+	margin: 0px;
+	margin-left: 5px;
+	background-image: url(adminimages/menutile.jpg);
+	background-repeat: repeat-y;
+	width: 141px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+	line-height: 16px;
+}
+
+.admin_menu_text {
+	display: block;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333;
+	list-style-type: none;
+	margin: 0px;
+	margin-left: 5px;
+	background-image: url(adminimages/menutile.jpg);
+	background-repeat: repeat-y;
+	width: 141px;
+		line-height: 14px;
+	text-align:center;
+}
+
+
+.admin_menu_list li {
+	display: inline;
+}
+
+.admin_menu_list a {
+	color: #3366FF;
+	text-decoration: none;
+	padding-left: 9px;
+	display: block;
+border-bottom: 1px solid #DDD;
+width:129px
+}
+
+.admin_menu_list a:hover {
+	text-decoration: none;
+	background-image: url(adminimages/blue_arrow.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+}
+ 
+ /* Main content */
+
+
+#main{
+ position: absolute;
+ left: 151px;
+ top: 95px;
+ right:5px;
+ border: 1px dotted #194C7F;
+ background: #FFF;
+ color: #333;
+ padding: 2px;
+  }
+
+#mainprint{
+ margin: 0px 0px 0px 0px;
+ background: #FFFFFF;
+ padding: 2px;
+ }
+
+/* Body links */ 
+ 
+A:link {
+	color: #000066;
+	text-decoration: none;
+}
+A:visited {
+	color: #000066;
+	text-decoration: none;
+}
+A:active {
+	color: #000066;
+	text-decoration: none;
+}
+A:hover {
+	color: #CC0000;
+	text-decoration: none;
+}
+
+/* Cell properties */
+
+TD {
+	font-size: 11px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* Paragraph properties */
+
+P {
+	font-size: 11px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* Darkest alternate cell property */
+
+TD.topdark {
+	font-size: 11px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color : #E7EAEF;
+	background: #030133;
+}
+
+TR.altdark {
+	font-size: 11px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	color : #000;
+	background: #EAECFB;
+}
+
+/* Lighter alternate cell property */
+
+TR.altlight {
+	font-size: 11px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	color : #000;
+	background: #FFF;
+}
+
+/* Form box properties */
+
+input {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+input.noborder {
+	border-width: 1px;
+	border-color: #003366;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color : #003366;
+	background-color: #FFFFFF;
+}
+textarea {
+	border-width: 1px;
+	border-color: #003366;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color : #003366;
+	background-color: #E7EAEF;
+}
+select {
+	font-size: 11px;
+	border-width: 1px;
+	border-color: #003366;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	color : #003366;
+}
+
+/* Horizontal rule properties */
+
+HR {
+	color: #E7EAEF;
+	background-color: #E7EAEF;
+	border: 1px solid #E7EAEF;
+}
+TABLE.cobtbl{
+	background-color: #95A7CF;
+}
+TABLE.ordtbl{
+	background-color: #E7EAEF;
+}
+TD.cobhl{
+	background-color: #C6D6FD;
+}
+TD.cobll{
+	background-color: #FFFFFF;
+}
+TR.cobhl{
+	background-color: #EAECFB;
+}
+TR.cobll{
+	background-color: #FFFFFF;
+}
+TR.cobwarn{
+	background-color: #FFE9EB;
+}
+form{
+	margin: 0;
+	padding: 0;
+}
+
+/* Admin tables */ 
+
+td.adtabcon{
+width:50%;
+vertical-align:top;
+}
+
+.admin-table-a
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 11px;
+	margin: 25px;
+	margin-top: 5px;
+	width: 96%;
+	text-align: left;
+	border-collapse: collapse;
+border-bottom: 1px solid #003366;
+
+}
+.admin-table-a th
+{
+	font-size: 13px;
+	font-weight: bold;
+	color: #000;
+	padding: 10px 8px;
+	border-bottom: 2px solid #6678b1;
+	text-align: left;
+}
+.admin-table-a td
+{
+	padding: 6px;
+	background: #F2F6FF; 
+	border-top: 1px dotted #6678b1;
+	color: #333;
+	
+}
+.admin-table-a tr:hover td
+{
+	background: #d0dafd;
+	color: #333;
+}
+
+.admin-table-b
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 11px;
+	margin: 25px;
+	width: 96%;
+	text-align: left;
+	border-collapse: collapse;
+border-bottom: 1px solid #003366;
+
+}
+.admin-table-b th
+{
+	font-size: 13px;
+	font-weight: bold;
+	color: #000;
+	padding: 1px 2px;
+	border-bottom: 2px solid #6678b1;
+	text-align: left;
+}
+.admin-table-b td
+{
+	padding: 6px;
+	background: #FFF; 
+	border-top: 1px dotted #6678b1;
+	color: #333;
+	width:40%
+}
+.admin-table-b tr:hover td
+{
+	background: #d0dafd;
+	color: #333;
+}
+.heading {
+	font-size: 13px;
+	font-family : Verdana,Arial,sans-serif;
+	font-weight : bold;
+	padding-top: 5px;
+	border-bottom: 1px solid #FF6633;
+	color : #003366;
+	margin-left: 8px;
+	margin-right: 24px;
+}
+td.new{
+	font-family : Verdana,Arial,sans-serif;
+	font-weight : bold;
+	color: #CC0000;
+	width:1%
+	}

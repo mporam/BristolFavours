@@ -1,0 +1,21 @@
+input.text {
+	border:none;
+	padding:0px;
+	padding-left:5px;
+	width:120px;
+	height:25px;
+	margin:0px;
+}
+
+form.newsletter {
+	border: 1px solid #ccc;
+	width:210px;
+	margin-top:5px;
+	max-height:32px;
+}
+
+.prodname {
+	font-size:13px;
+	color:#013baf;
+	height:32px;
+}

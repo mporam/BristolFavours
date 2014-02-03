@@ -1,0 +1,1 @@
+<?php					if(@$showproductsku!='' && $rs['pSKU']!='') print '<div class="detailsku"><strong>' . $showproductsku . ':</strong> ' . $rs['pSKU'] . '</div>';?>
